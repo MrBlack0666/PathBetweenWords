@@ -6,15 +6,15 @@ This project was about finding shortest or with the length specified by the user
 
 <b>Inputs:</b>
 
-<p>Starting word: House</p>
-<p>Final word: Forest</p>
+<p>Starting word: house</p>
+<p>Final word: forest</p>
 
 Minimal path length: 10
 
 Relation - none
 
 <b>Output:</b>
-House - Community - Biome - Desert - Leave - Arrive - Reach - Ground - Land - Forest
+house - community - biome - desert - leave - arrive - reach - ground - land - forest
 
 
 Relation - the path must contains at least one of the specified by user connection (none, synonym, hyperonym, hyponym, meronym)
